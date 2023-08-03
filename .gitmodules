@@ -1,0 +1,3 @@
+[submodule "ffmpegcv"]
+	path = ffmpegcv
+	url = git@github.com:edwios/ffmpegcv.git
